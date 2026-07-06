@@ -15,6 +15,8 @@
 | `TG_CHAT_ID`    | ❌可选 | Telegram Chat ID |
 
 COOKIE_VALUE的获取如图
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/be28a597-eef8-481b-862d-cc98533a2e27" />
+
 
 ### 代理格式（确认在v2rayN里使用正常的节点）`最好用注册号的代理`
 
